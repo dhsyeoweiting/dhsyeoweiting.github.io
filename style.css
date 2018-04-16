@@ -1,12 +1,16 @@
 body {
-    background-color: #ffff00;
+    background-color: #ffffe6;
 }
 p {
   font-family: Arial;
 }
 
 h1 {
-  color: maroon;
+  font-family: Arial
+    color: #6666ff;
 }
-
+h2{
+  font-family: Arial
+     color: #6666ff;  
+}
 
